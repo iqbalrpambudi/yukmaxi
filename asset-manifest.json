@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/yukmaxi/static/css/main.24271727.chunk.css",
+    "main.js": "/yukmaxi/static/js/main.20e087f5.chunk.js",
+    "main.js.map": "/yukmaxi/static/js/main.20e087f5.chunk.js.map",
+    "runtime-main.js": "/yukmaxi/static/js/runtime-main.efa75bdb.js",
+    "runtime-main.js.map": "/yukmaxi/static/js/runtime-main.efa75bdb.js.map",
+    "static/js/2.68c20248.chunk.js": "/yukmaxi/static/js/2.68c20248.chunk.js",
+    "static/js/2.68c20248.chunk.js.map": "/yukmaxi/static/js/2.68c20248.chunk.js.map",
+    "static/js/3.b23d1e60.chunk.js": "/yukmaxi/static/js/3.b23d1e60.chunk.js",
+    "static/js/3.b23d1e60.chunk.js.map": "/yukmaxi/static/js/3.b23d1e60.chunk.js.map",
+    "index.html": "/yukmaxi/index.html",
+    "static/css/main.24271727.chunk.css.map": "/yukmaxi/static/css/main.24271727.chunk.css.map",
+    "static/js/2.68c20248.chunk.js.LICENSE.txt": "/yukmaxi/static/js/2.68c20248.chunk.js.LICENSE.txt",
+    "static/media/friedrice.jpg": "/yukmaxi/static/media/friedrice.0fef1056.jpg",
+    "static/media/roastedchicken.jpg": "/yukmaxi/static/media/roastedchicken.ac9b5091.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efa75bdb.js",
+    "static/js/2.68c20248.chunk.js",
+    "static/css/main.24271727.chunk.css",
+    "static/js/main.20e087f5.chunk.js"
+  ]
+}
